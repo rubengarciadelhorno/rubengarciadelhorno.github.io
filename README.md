@@ -8,6 +8,8 @@
 </head>
 <body>
     Welcome to my personal website.
+
+<img src="https://github.com/rubengarciadelhorno/rubengarciadelhorno.github.io/blob/main/foto%20(2).jpeg?raw=true" alt="Foto">
     
     I'm a PhD candidate in the Department of Political Science and Public Law of the Universitat Autònoma de Barcelona. I'm a member of the Democracy, Elections and Citizenship research group and of the "The Rural-Urban Divide in Europe" (RUDE) project.
     
