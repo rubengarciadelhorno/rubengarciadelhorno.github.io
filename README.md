@@ -7,7 +7,7 @@
     <title>Hi, I'm Rubén!</title>
 </head>
 <body>
-    <p>Welcome to my personal website.
+    Welcome to my personal website.
     
     I'm a PhD candidate in the Department of Political Science and Public Law of the Universitat Autònoma de Barcelona. I'm a member of the Democracy, Elections and Citizenship research group and of the "The Rural-Urban Divide in Europe" (RUDE) project.
     
