@@ -7,6 +7,7 @@
 
 </head>
 Hi, I'm Rubén!
+
 <body>
     Welcome to my personal website.
 
