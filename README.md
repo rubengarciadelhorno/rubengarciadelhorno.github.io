@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # rubengarciadelhorno.github.io
 <!DOCTYPE html>
 <html lang="es">
