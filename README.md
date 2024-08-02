@@ -4,8 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hi, I'm Rubén!</title>
+
 </head>
+Hi, I'm Rubén!
 <body>
     Welcome to my personal website.
 
